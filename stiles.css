@@ -1,0 +1,33 @@
+.carousel-track {
+    display: contents; 
+    gap: 3px;
+    justify-items: center;
+    height: 250px;
+    width: 350px;
+    border: rgb(17, 17, 17);
+   image-orientation: size;
+   align-content: center;
+}
+.carousel-item{
+     height: 750px; 
+     width: 5%;
+     /* object-fit: contain; */
+}
+.h1 {
+    color: #e71919;
+    font-size: 25px;
+}
+.p {
+    color: rgb(10, 219, 73);
+    font-size: 25px;
+}
+.ul {
+    justify-content: center;
+    gap: 35px;
+    display: contents;
+}
+body{
+    background-image: url('cakebackground.webp'); 
+    height: 100%;
+    width: 100%;
+}
